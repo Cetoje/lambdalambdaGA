@@ -6,7 +6,7 @@ Implementacija genetskog algoritma i (1 + λ) genetskog algoritma za problem trg
 
 ```bash
 git clone https://github.com/Cetoje/lambdalambdaGA.git
-cd RacunarskaInteligencija
+cd lambdalambdaGA
 ```
 
 ## 2. Virtuelno okruženje i zavisnosti
