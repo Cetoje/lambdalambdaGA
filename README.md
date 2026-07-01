@@ -5,7 +5,7 @@ Implementacija genetskog algoritma i (1 + λ) genetskog algoritma za problem trg
 ## 1. Kloniranje repozitorijuma
 
 ```bash
-git clone https://github.com/Cetoje/RacunarskaInteligencija.git
+git clone https://github.com/Cetoje/lambdalambdaGA.git
 cd RacunarskaInteligencija
 ```
 
